@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-wonderful-nine/",
+    "build": "vite build --base=/91_html-css_IamE1off/",
     "preview": "vite preview"
   },
   "devDependencies": {
